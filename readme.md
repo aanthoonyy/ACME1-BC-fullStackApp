@@ -22,7 +22,6 @@ Bloom Consulting's website will feature a responsive design optimized for both d
 
 ### Additional information about the project
 
-TODO: Write a compelling/creative/informative project description / summary
 The goal of ACME Consulting's partnership with WSU's Voiland College of Engineering is to create a corporate website that complies with WCAG, GDPR, and is responsive. In addition to giving students practical experience in full stack web development, the project gives ACME a platform to market its offerings, monitor client portal security, and track performance. Through this partnership, professional application and academic learning are connected, benefiting both ACME and the participating students.
 
 ## Installation
@@ -30,7 +29,6 @@ The goal of ACME Consulting's partnership with WSU's Voiland College of Engineer
 ### Prerequisites
 
 TODO: List what a user needs to have installed before running the installation instructions below (e.g., git, which versions of Ruby/Rails)
-Web browser
 
 ### Add-ons
 
