@@ -8,43 +8,52 @@ Provide a README file with the following information:
 
 # Project Name
 
+ACME1-BC-fullStackApp
+
 ## Project summary
+
+Create website for Bloom Consulting
 
 ### One-sentence description of the project
 
-TODO: A 20-second elevator pitch of your project - its core idea summarized in one sentence.
+A desktop and mobile business website for Bloom Consulting
+
+Bloom Consulting's website will feature a responsive design optimized for both desktop and mobile, providing an efficient, user-friendly experience for external and internal customers through intuitive navigation, personalized content, quick access to support, fast loading times, and robust security measures.
 
 ### Additional information about the project
 
 TODO: Write a compelling/creative/informative project description / summary
+The goal of ACME Consulting's partnership with WSU's Voiland College of Engineering is to create a corporate website that complies with WCAG, GDPR, and is responsive. In addition to giving students practical experience in full stack web development, the project gives ACME a platform to market its offerings, monitor client portal security, and track performance. Through this partnership, professional application and academic learning are connected, benefiting both ACME and the participating students.
 
 ## Installation
 
 ### Prerequisites
 
 TODO: List what a user needs to have installed before running the installation instructions below (e.g., git, which versions of Ruby/Rails)
+Web browser
 
 ### Add-ons
 
 TODO: List which add-ons are included in the project, and the purpose each add-on serves in your app.
+N/A
 
 ### Installation Steps
 
 TODO: Describe the installation process (making sure you mention `bundle install`).
-Instructions need to be such that a user can just copy/paste the commands to get things set up and running. 
-
+Instructions need to be such that a user can just copy/paste the commands to get things set up and running.
+N/A
 
 ## Functionality
 
 TODO: Write usage instructions. Structuring it as a walkthrough can help structure this section,
 and showcase your features.
-
+N/A
 
 ## Known Problems
 
-TODO: Describe any known issues, bugs, odd behaviors or code smells. 
+TODO: Describe any known issues, bugs, odd behaviors or code smells.
 Provide steps to reproduce the problem and/or name a file or a function where the problem lives.
-
+N/A
 
 ## Contributing
 
@@ -59,8 +68,9 @@ TODO: Leave the steps below if you want others to contribute to your project.
 ## Additional Documentation
 
 TODO: Provide links to additional documentation that may exist in the repo, e.g.,
-  * Sprint reports
-  * User links
+
+- Sprint reports
+- User links
 
 ## License
 
