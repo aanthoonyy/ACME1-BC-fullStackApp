@@ -28,7 +28,7 @@ The goal of ACME Consulting's partnership with WSU's Voiland College of Engineer
 
 ### Prerequisites
 
-TODO: List what a user needs to have installed before running the installation instructions below (e.g., git, which versions of Ruby/Rails)
+- Web browser 
 
 ### Add-ons
 
