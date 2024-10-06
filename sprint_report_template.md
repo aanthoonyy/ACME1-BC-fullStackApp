@@ -1,62 +1,46 @@
 # Sprint x Report (8/26/21 - 9/24/2021)
 
 ## What's New (User Facing)
- * Feature 1 or Bug Fix 1
- * Feature 2 or Bug Fix 2
- * Feature n or Bug Fix n
+ * Identified missing knowledge points that would require additional research.
+ * Began and completed researching to ensure each team member had a strong technological background before full stack web development began.
+
 
 ## Work Summary (Developer Facing)
-Provide a one paragraph synposis of what your team accomplished this sprint. Don't repeat the "What's New" list of features. Instead, help the instructor understand how you went about the work described there, any barriers you overcame, and any significant learnings for your team.
+We met with our client to understand what features she wanted implemented within her website. We also recommended a few features to her to give her some options and gauge what she liked and disliked. With an understanding of what our client is looking for, we were able to conduct background research to ensure we meet her requirements and requests.
 
 ## Unfinished Work
-If applicable, explain the work you did not finish in this sprint. For issues/user stories in the current sprint that have not been closed, (a) any progress toward completion of the issues has been clearly tracked (by checking the checkboxes of  acceptance criteria), (b) a comment has been added to the issue to explain why the issue could not be completed (e.g., "we ran out of time" or "we did not anticipate it would be so much work"), and (c) the issue is added to a subsequent sprint, so that it can be addressed later.
+We created several user stories for both users and administrators, we were unable to finish any of them due to us being in early stages of the development process.
 
 ## Completed Issues/User Stories
-Here are links to the issues that we completed in this sprint:
-
- * URL of issue 1
- * URL of issue 2
- * URL of issue n
-
- Reminders (Remove this section when you save the file):
-  * Each issue should be assigned to a milestone
-  * Each completed issue should be assigned to a pull request
-  * Each completed pull request should include a link to a "Before and After" video
-  * All team members who contributed to the issue should be assigned to it on GitHub
-  * Each issue should be assigned story points using a label
-  * Story points contribution of each team member should be indicated in a comment
+We have not completed any issues or user stories because we have not started creating the website for our client. However, during meetings with our client we have talked about how we would approach all issues.
  
  ## Incomplete Issues/User Stories
  Here are links to issues we worked on but did not complete in this sprint:
  
- * URL of issue 1 <<One sentence explanation of why issue was not completed>>
- * URL of issue 2 <<One sentence explanation of why issue was not completed>>
- * URL of issue n <<One sentence explanation of why issue was not completed>>
- 
- Examples of explanations (Remove this section when you save the file):
-  * "We ran into a complication we did not anticipate (explain briefly)." 
-  * "We decided that the feature did not add sufficient value for us to work on it in this sprint (explain briefly)."
-  * "We could not reproduce the bug" (explain briefly).
-  * "We did not get to this issue because..." (explain briefly)
+ * URL: [Viewing the homepage on a mobile device](https://github.com/aanthoonyy/ACME1-BC-fullStackApp/issues/2). We have not completed this issue, however, Wix has the ability to view a webpage on both desktop and mobile devices.
+ * URL: [Accessing services information](https://github.com/aanthoonyy/ACME1-BC-fullStackApp/issues/3). We have not completed this issue, however, we plan to include services on the home page and have links redirect the user to pages specific to each service.
+ * URL: [Submitting the contact form](https://github.com/aanthoonyy/ACME1-BC-fullStackApp/issues/4). We have not completed this issue, however, Wix provides functionality to link an email to a contact form.
+ * URL: [Logging into the client portal](https://github.com/aanthoonyy/ACME1-BC-fullStackApp/issues/5). We have not completed this issue, Wix allows for third party applications that we can use to hopefully implement a client log in portal.
+ * URL: [Manage client information](https://github.com/aanthoonyy/ACME1-BC-fullStackApp/issues/9). We have not completed this issue, however, we will most likely use a third-party application to complete this issue.
+ * URL: [Update website information](https://github.com/aanthoonyy/ACME1-BC-fullStackApp/issues/8). We have not completed this, however, website changes and updates can be made through the Wix manager page.
+ * URL: [Tracking visitor behavior](https://github.com/aanthoonyy/ACME1-BC-fullStackApp/issues/6). We have not completed this, however, tracking visitor behavior can be done through Google Analytics.
+ * URL: [Viewing performance reports](https://github.com/aanthoonyy/ACME1-BC-fullStackApp/issues/7). We have not completed this, however, like the previous issue, performance reports can be viewed through Google Analytics, which is compatible with Wix.
+
+We were unable to finish any of these issues because we have not started any sort of website development yet. We have only been focused on the design aspect of our project. For each issue/ user story I provided how we plan to complete them, since we were unable to finish any.
 
 ## Code Files for Review
-Please review the following code files, which were actively developed during this sprint, for quality:
- * [Name of code file 1](https://github.com/your_repo/file_extension)
- * [Name of code file 2](https://github.com/your_repo/file_extension)
- * [Name of code file 3](https://github.com/your_repo/file_extension)
+None as of right now.
  
 ## Retrospective Summary
 Here's what went well:
-  * Item 1
-  * Item 2
-  * Item x
+  * We were able to gain a better understanding of the client's needs and wants for the website.
+  * We got a better understanding of the features our client wants to implement and what features she does not want to implement.
+  * We were able to conduct research that will be useful when we begin creating our website.
  
 Here's what we'd like to improve:
-   * Item 1
-   * Item 2
-   * Item x
+   * We would like to meet with our client more to figure out what specific designs she wants.
+   * We want a better understanding on some plugins that can be used for website development.
   
 Here are changes we plan to implement in the next sprint:
-   * Item 1
-   * Item 2
-   * Item x
+   * Continue to meet with the client to view design mockups and determine a semi-final prototype.
+   * Create a prototype of the Wix website and show the client.
