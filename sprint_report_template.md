@@ -1,4 +1,6 @@
 # Sprint x Report (8/19/24 - 10/5/2024)
+## Sprint Video
+Youtube Link: https://www.youtube.com/watch?v=xWgG_Od0_H8
 
 ## What's New (User Facing)
  * Identified missing knowledge points that would require additional research.
