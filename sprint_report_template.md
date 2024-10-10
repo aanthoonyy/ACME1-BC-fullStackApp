@@ -1,4 +1,4 @@
-# Sprint x Report (8/19/24 - 10/5/2024)
+# Sprint 1 Report (8/19/24 - 10/5/2024)
 ## Sprint Video
 Video Link: https://drive.google.com/file/d/10YrOEY_HsWMRV9rjtDObi2O4N51dx6RY/view
 
@@ -36,7 +36,6 @@ None as of right now.
 ## Retrospective Summary
 Here's what went well:
   * We were able to gain a better understanding of the client's needs and wants for the website.
-  * We got a better understanding of the features our client wants to implement and what features she does not want to implement.
   * We were able to conduct research that will be useful when we begin creating our website.
  
 Here's what we'd like to improve:
