@@ -53,5 +53,4 @@ None as of 11/5/2024
 - [Project document iterations](https://github.com/aanthoonyy/ACME1-BC-fullStackApp/tree/main/Project%20Document%20Iterations)
 
 
-## License
-The license is in the LICENSE.txt file.
+## [License](https://github.com/aanthoonyy/ACME1-BC-fullStackApp/blob/main/LICENSE.txt)
