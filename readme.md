@@ -4,11 +4,11 @@ ACME1-BC-fullStackApp
 
 ## Project summary
 
-Create website for Bloom Consulting
+Create website for Bloom Collective
 
 ### One-sentence description of the project
 
-A desktop and mobile business website for Bloom Consulting
+A desktop and mobile website for Bloom Collective, a consulting business.
 
 Bloom Consulting's website will feature a responsive design optimized for both desktop and mobile, providing an efficient, user-friendly experience for external and internal customers through intuitive navigation, personalized content, quick access to support, fast loading times, and robust security measures.
 
@@ -23,27 +23,19 @@ The goal of ACME Consulting's partnership with WSU's Voiland College of Engineer
 - Web browser, mobile device, and internet access.
 
 ### Add-ons
-
-TODO: List which add-ons are included in the project, and the purpose each add-on serves in your app.
-N/A as of 10/5/2024
+No add-ons as of 11/5/2024
 
 ### Installation Steps
 
-TODO: Describe the installation process (making sure you mention `bundle install`).
-Instructions need to be such that a user can just copy/paste the commands to get things set up and running.
-N/A as of 10/5/2024
+None as of 11/5/2024
 
 ## Functionality
 
-TODO: Write usage instructions. Structuring it as a walkthrough can help structure this section,
-and showcase your features.
-N/A as of 10/5/2024
+A walkthrough for the website would be like any other website, navigating main pages like contact, services, and about us.
 
 ## Known Problems
 
-TODO: Describe any known issues, bugs, odd behaviors or code smells.
-Provide steps to reproduce the problem and/or name a file or a function where the problem lives.
-N/A as of 10/5/2024
+None as of 11/5/2024
 
 ## Contributing
 
@@ -55,12 +47,11 @@ N/A as of 10/5/2024
 
 ## Additional Documentation
 
-TODO: Provide links to additional documentation that may exist in the repo, e.g.,
+- [Website designs](https://github.com/aanthoonyy/ACME1-BC-fullStackApp/tree/main/Designs)
+- [Meeting minutes](https://github.com/aanthoonyy/ACME1-BC-fullStackApp/tree/main/Minutes%20of%20Meeting)
+- [Presentation slide shows](https://github.com/aanthoonyy/ACME1-BC-fullStackApp/tree/main/Presentations)
+- [Project document iterations](https://github.com/aanthoonyy/ACME1-BC-fullStackApp/tree/main/Project%20Document%20Iterations)
 
-- [Sprint reports](https://github.com/aanthoonyy/ACME1-BC-fullStackApp/blob/main/sprint_report_template.md)
-- [User stories](https://github.com/users/aanthoonyy/projects/4)
 
 ## License
-
-If you haven't already, add a file called `LICENSE.txt` with the text of the appropriate license.
-We recommend using the MIT license: <https://choosealicense.com/licenses/mit/>
+The license is in the LICENSE.txt file.
