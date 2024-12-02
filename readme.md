@@ -23,11 +23,11 @@ The goal of ACME Consulting's partnership with WSU's Voiland College of Engineer
 - Web browser, mobile device, and internet access.
 
 ### Add-ons
-No add-ons as of 11/5/2024
+No add-ons as of 12/1/2024
 
 ### Installation Steps
 
-None as of 11/5/2024
+None as of 12/1/2024
 
 ## Functionality
 
@@ -35,7 +35,7 @@ A walkthrough for the website would be like any other website, navigating main p
 
 ## Known Problems
 
-None as of 11/5/2024
+None as of 12/1/2024
 
 ## Contributing
 
