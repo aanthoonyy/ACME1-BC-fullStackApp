@@ -3,17 +3,18 @@
 Video Link: https://drive.google.com/file/d/1WQeHOCkhihUpW1UlERAUX6rvDOXIt1l3/view?usp=sharing&t=1
 
 ## What's New (User Facing)
- * 
+ * None as of right now.
 
 
 ## Work Summary (Developer Facing)
-
+Met with the client to brainstorm ideas on making the daily tasks of Bloom Collective more efficent. We've researched AI tools and other automated systems that can be used for this.
 
 ## Unfinished Work
-
+* Need to test and implement AI assistant
+* 
 
 ## Completed Issues/User Stories
-
+* None as of right now.
  
  ## Incomplete Issues/User Stories
  Here are links to issues we worked on but did not complete in this sprint:
