@@ -23,11 +23,11 @@ The goal of ACME Consulting's partnership with WSU's Voiland College of Engineer
 - Web browser, mobile device, and internet access.
 
 ### Add-ons
-No add-ons as of 12/1/2024
+No add-ons as of 2/10/2025
 
 ### Installation Steps
 
-None as of 12/1/2024
+None as of 2/10/2025
 
 ## Functionality
 
@@ -35,7 +35,7 @@ A walkthrough for the website would be like any other website, navigating main p
 
 ## Known Problems
 
-None as of 12/1/2024
+None as of 2/10/2025
 
 ## Contributing
 
@@ -51,6 +51,7 @@ None as of 12/1/2024
 - [Meeting minutes](https://github.com/aanthoonyy/ACME1-BC-fullStackApp/tree/main/Minutes%20of%20Meeting)
 - [Presentation slide shows](https://github.com/aanthoonyy/ACME1-BC-fullStackApp/tree/main/Presentations)
 - [Project document iterations](https://github.com/aanthoonyy/ACME1-BC-fullStackApp/tree/main/Project%20Document%20Iterations)
+- [Sprint reports](https://github.com/aanthoonyy/ACME1-BC-fullStackApp/tree/main/Sprint%20Reports)
 
 
 ## [License](https://github.com/aanthoonyy/ACME1-BC-fullStackApp/blob/main/LICENSE.txt)
