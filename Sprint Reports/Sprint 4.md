@@ -10,8 +10,8 @@ Video Link: https://drive.google.com/file/d/1WQeHOCkhihUpW1UlERAUX6rvDOXIt1l3/vi
 Met with the client to brainstorm ideas on making the daily tasks of Bloom Collective more efficent. We've researched AI tools and other automated systems that can be used for this.
 
 ## Unfinished Work
-* Need to test and implement AI assistant
-* 
+* Test and implement AI assistant
+* Implement and test Customer Relation Management (CRM)
 
 ## Completed Issues/User Stories
 * None as of right now.
@@ -29,13 +29,13 @@ None as of right now.
  
 ## Retrospective Summary
 Here's what went well:
-  * 
-  * 
+  * Discussing and brainstorming new ideas for helping our client with everyday tasks of Bloom Consulting
+  * Researching solutions for AI assistant and CRM
  
 Here's what we'd like to improve:
    * 
    * 
   
 Here are changes we plan to implement in the next sprint:
-   * 
-   *
+   * Implementing integrations with website data to CRM
+   * Implementing AI assistant
