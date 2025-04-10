@@ -4,7 +4,7 @@ ACME1-BC-fullStackApp
 
 ## Project summary
 
-Create website for Bloom Collective
+Development and automation of Bloom Collective
 
 ### One-sentence description of the project
 
@@ -23,11 +23,11 @@ The goal of ACME Consulting's partnership with WSU's Voiland College of Engineer
 - Web browser, mobile device, and internet access.
 
 ### Add-ons
-No add-ons as of 2/10/2025
+No add-ons as of 4/09/2025
 
 ### Installation Steps
 
-None as of 2/10/2025
+None as of 4/09/2025
 
 ## Functionality
 
@@ -35,7 +35,7 @@ A walkthrough for the website would be like any other website, navigating main p
 
 ## Known Problems
 
-None as of 2/10/2025
+None as of 4/09/2025
 
 ## Contributing
 
